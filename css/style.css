@@ -1,0 +1,50 @@
+body{
+    font-family:"Roboto", san-serif;
+    font-size:14px;
+    color:#111;
+    background:#F1948A!important;
+   
+}
+.bloc{
+   position:relative;
+    padding-top:150px;
+    
+}
+.weather-block
+{ 
+  display:block;
+  border:1px solid #ccc  ;
+  box-shadow: 3px 3px 3px #E74C3C  ;
+  text-align:center;
+  background:#fff;
+}
+.loc-block{
+  padding:20px;
+}
+#odometer{
+  font-size:36px;
+  
+}
+.temp_but{
+ position:relative;
+  top:-28px;
+  cursor:pointer;
+  
+}
+.color{
+  color:#85C1E9!important; 
+}
+.bord{
+  border-right:2px solid #111;
+}
+.active{
+  color:#85C1E9  ;
+ 
+}
+.map{
+ color:#85C1E9!important; 
+}
+
+.odometer.odometer-auto-theme, .odometer.odometer-theme-plaza{
+  background-color: #fff!important;
+}
